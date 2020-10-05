@@ -1,0 +1,5 @@
+displayName = Calamity craftable Arsenal Labs stations
+author = Mr. Tavitel
+version = 1.0.0
+modReferences = CalamityMod
+homepage = https://github.com/irendie/tModLoader-CalamityChargerRecipe

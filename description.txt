@@ -1,0 +1,17 @@
+This mod adds a recipes for Calamity items "Power Cell Factory" and "Charging Station". 
+Can be used as workaround to get these on pre-1.4.5.003 worlds.
+Use at your own risk. 
+
+
+Recipes (all crafted at anvil):
+
+"Power Cell Factory" and "Charging Station"
+10x Dubious Plating
+10x Mysterious Circuitry
+
+"Dubious Plating" and "Mysterious Circuitry"
+10x any Iron Bar
+10x Glass block
+
+
+By Mr. Tavitel
